@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CaixaDeBanco.QueryStore/1.0.0": {
+        "runtime": {
+          "CaixaDeBanco.QueryStore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CaixaDeBanco.QueryStore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3B2C14-1B1A-4D03-90FC-226DD5C1CB62}|CaixaDeBanco\\CaixaDeBanco.csproj|c:\\users\\usuari\\source\\repos\\caixadebanco.api\\caixadebanco\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3B2C14-1B1A-4D03-90FC-226DD5C1CB62}|CaixaDeBanco\\CaixaDeBanco.csproj|solutionrelative:caixadebanco\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CC4B04-EF24-425D-B06A-B9E2D64346DB}|CaixaDeBanco.QueryStore\\CaixaDeBanco.QueryStore.csproj|c:\\users\\usuari\\source\\repos\\caixadebanco.api\\caixadebanco.querystore\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CC4B04-EF24-425D-B06A-B9E2D64346DB}|CaixaDeBanco.QueryStore\\CaixaDeBanco.QueryStore.csproj|solutionrelative:caixadebanco.querystore\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E870233E-DCE2-4BD4-AF28-39255CEBD44E}|CaixaDeBanco.CommandStore\\CaixaDeBanco.CommandStore.csproj|c:\\users\\usuari\\source\\repos\\caixadebanco.api\\caixadebanco.commandstore\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E870233E-DCE2-4BD4-AF28-39255CEBD44E}|CaixaDeBanco.CommandStore\\CaixaDeBanco.CommandStore.csproj|solutionrelative:caixadebanco.commandstore\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B954BA3-FD8B-4AF9-8480-E939DB854AE2}|CaixaDeBanco.Api\\CaixaDeBanco.Api.csproj|c:\\users\\usuari\\source\\repos\\caixadebanco.api\\caixadebanco.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B954BA3-FD8B-4AF9-8480-E939DB854AE2}|CaixaDeBanco.Api\\CaixaDeBanco.Api.csproj|solutionrelative:caixadebanco.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B954BA3-FD8B-4AF9-8480-E939DB854AE2}|CaixaDeBanco.Api\\CaixaDeBanco.Api.csproj|c:\\users\\usuari\\source\\repos\\caixadebanco.api\\caixadebanco.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B954BA3-FD8B-4AF9-8480-E939DB854AE2}|CaixaDeBanco.Api\\CaixaDeBanco.Api.csproj|solutionrelative:caixadebanco.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B954BA3-FD8B-4AF9-8480-E939DB854AE2}|CaixaDeBanco.Api\\CaixaDeBanco.Api.csproj|c:\\users\\usuari\\source\\repos\\caixadebanco.api\\caixadebanco.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B954BA3-FD8B-4AF9-8480-E939DB854AE2}|CaixaDeBanco.Api\\CaixaDeBanco.Api.csproj|solutionrelative:caixadebanco.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B954BA3-FD8B-4AF9-8480-E939DB854AE2}|CaixaDeBanco.Api\\CaixaDeBanco.Api.csproj|c:\\users\\usuari\\source\\repos\\caixadebanco.api\\caixadebanco.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B954BA3-FD8B-4AF9-8480-E939DB854AE2}|CaixaDeBanco.Api\\CaixaDeBanco.Api.csproj|solutionrelative:caixadebanco.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.DbContext\\Migrations\\20250322201338_UpdateFieldSize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CaixaDeBanco.DbContext\\Migrations\\20250322201338_UpdateFieldSize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2761B1C9-AB41-46B0-A4E8-B3A7962079C8}|CaixaDeBanco.DbContext\\CaixaDeBanco.Database.csproj|c:\\users\\usuari\\source\\repos\\caixadebanco.api\\caixadebanco.dbcontext\\models\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2761B1C9-AB41-46B0-A4E8-B3A7962079C8}|CaixaDeBanco.DbContext\\CaixaDeBanco.Database.csproj|solutionrelative:caixadebanco.dbcontext\\models\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2761B1C9-AB41-46B0-A4E8-B3A7962079C8}|CaixaDeBanco.DbContext\\CaixaDeBanco.Database.csproj|c:\\users\\usuari\\source\\repos\\caixadebanco.api\\caixadebanco.dbcontext\\models\\accounthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2761B1C9-AB41-46B0-A4E8-B3A7962079C8}|CaixaDeBanco.DbContext\\CaixaDeBanco.Database.csproj|solutionrelative:caixadebanco.dbcontext\\models\\accounthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2761B1C9-AB41-46B0-A4E8-B3A7962079C8}|CaixaDeBanco.DbContext\\CaixaDeBanco.Database.csproj|c:\\users\\usuari\\source\\repos\\caixadebanco.api\\caixadebanco.dbcontext\\models\\bankingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2761B1C9-AB41-46B0-A4E8-B3A7962079C8}|CaixaDeBanco.DbContext\\CaixaDeBanco.Database.csproj|solutionrelative:caixadebanco.dbcontext\\models\\bankingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2761B1C9-AB41-46B0-A4E8-B3A7962079C8}|CaixaDeBanco.DbContext\\CaixaDeBanco.Database.csproj|c:\\users\\usuari\\source\\repos\\caixadebanco.api\\caixadebanco.dbcontext\\migrations\\20250322200519_initialcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2761B1C9-AB41-46B0-A4E8-B3A7962079C8}|CaixaDeBanco.DbContext\\CaixaDeBanco.Database.csproj|solutionrelative:caixadebanco.dbcontext\\migrations\\20250322200519_initialcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2761B1C9-AB41-46B0-A4E8-B3A7962079C8}|CaixaDeBanco.DbContext\\CaixaDeBanco.Database.csproj|c:\\users\\usuari\\source\\repos\\caixadebanco.api\\caixadebanco.dbcontext\\migrations\\bancodbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2761B1C9-AB41-46B0-A4E8-B3A7962079C8}|CaixaDeBanco.DbContext\\CaixaDeBanco.Database.csproj|solutionrelative:caixadebanco.dbcontext\\migrations\\bancodbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B954BA3-FD8B-4AF9-8480-E939DB854AE2}|CaixaDeBanco.Api\\CaixaDeBanco.Api.csproj|c:\\users\\usuari\\source\\repos\\caixadebanco.api\\caixadebanco.api\\caixadebanco.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B954BA3-FD8B-4AF9-8480-E939DB854AE2}|CaixaDeBanco.Api\\CaixaDeBanco.Api.csproj|solutionrelative:caixadebanco.api\\caixadebanco.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2761B1C9-AB41-46B0-A4E8-B3A7962079C8}|CaixaDeBanco.DbContext\\CaixaDeBanco.Database.csproj|c:\\users\\usuari\\source\\repos\\caixadebanco.api\\caixadebanco.dbcontext\\caixadebanco.database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2761B1C9-AB41-46B0-A4E8-B3A7962079C8}|CaixaDeBanco.DbContext\\CaixaDeBanco.Database.csproj|solutionrelative:caixadebanco.dbcontext\\caixadebanco.database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A94DDBF-4A8B-47DB-B0A5-66C7915E63F7}|CaixaDeBanco.Enumerator\\CaixaDeBanco.Enumerator.csproj|c:\\users\\usuari\\source\\repos\\caixadebanco.api\\caixadebanco.enumerator\\caixadebanco.enumerator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A94DDBF-4A8B-47DB-B0A5-66C7915E63F7}|CaixaDeBanco.Enumerator\\CaixaDeBanco.Enumerator.csproj|solutionrelative:caixadebanco.enumerator\\caixadebanco.enumerator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A94DDBF-4A8B-47DB-B0A5-66C7915E63F7}|CaixaDeBanco.Enumerator\\CaixaDeBanco.Enumerator.csproj|c:\\users\\usuari\\source\\repos\\caixadebanco.api\\caixadebanco.enumerator\\etransactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A94DDBF-4A8B-47DB-B0A5-66C7915E63F7}|CaixaDeBanco.Enumerator\\CaixaDeBanco.Enumerator.csproj|solutionrelative:caixadebanco.enumerator\\etransactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A94DDBF-4A8B-47DB-B0A5-66C7915E63F7}|CaixaDeBanco.Enumerator\\CaixaDeBanco.Enumerator.csproj|c:\\users\\usuari\\source\\repos\\caixadebanco.api\\caixadebanco.enumerator\\eaccountaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A94DDBF-4A8B-47DB-B0A5-66C7915E63F7}|CaixaDeBanco.Enumerator\\CaixaDeBanco.Enumerator.csproj|solutionrelative:caixadebanco.enumerator\\eaccountaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2761B1C9-AB41-46B0-A4E8-B3A7962079C8}|CaixaDeBanco.DbContext\\CaixaDeBanco.Database.csproj|c:\\users\\usuari\\source\\repos\\caixadebanco.api\\caixadebanco.dbcontext\\data\\bancodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2761B1C9-AB41-46B0-A4E8-B3A7962079C8}|CaixaDeBanco.DbContext\\CaixaDeBanco.Database.csproj|solutionrelative:caixadebanco.dbcontext\\data\\bancodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco\\Class1.cs",
+              "RelativeDocumentMoniker": "CaixaDeBanco\\Class1.cs",
+              "ToolTip": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco\\Class1.cs",
+              "RelativeToolTip": "CaixaDeBanco\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T20:33:50.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.QueryStore\\Class1.cs",
+              "RelativeDocumentMoniker": "CaixaDeBanco.QueryStore\\Class1.cs",
+              "ToolTip": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.QueryStore\\Class1.cs",
+              "RelativeToolTip": "CaixaDeBanco.QueryStore\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T20:33:10.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.CommandStore\\Class1.cs",
+              "RelativeDocumentMoniker": "CaixaDeBanco.CommandStore\\Class1.cs",
+              "ToolTip": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.CommandStore\\Class1.cs",
+              "RelativeToolTip": "CaixaDeBanco.CommandStore\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T20:32:45.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250322201338_UpdateFieldSize.cs",
+              "DocumentMoniker": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.DbContext\\Migrations\\20250322201338_UpdateFieldSize.cs",
+              "RelativeDocumentMoniker": "CaixaDeBanco.DbContext\\Migrations\\20250322201338_UpdateFieldSize.cs",
+              "ToolTip": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.DbContext\\Migrations\\20250322201338_UpdateFieldSize.cs",
+              "RelativeToolTip": "CaixaDeBanco.DbContext\\Migrations\\20250322201338_UpdateFieldSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T20:13:38.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CaixaDeBanco.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.Api\\appsettings.Development.json",
+              "RelativeToolTip": "CaixaDeBanco.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAC4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-22T17:44:30.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountHistory.cs",
+              "DocumentMoniker": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.DbContext\\Models\\AccountHistory.cs",
+              "RelativeDocumentMoniker": "CaixaDeBanco.DbContext\\Models\\AccountHistory.cs",
+              "ToolTip": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.DbContext\\Models\\AccountHistory.cs",
+              "RelativeToolTip": "CaixaDeBanco.DbContext\\Models\\AccountHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T18:32:38.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "CaixaDeBanco.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.Api\\appsettings.json",
+              "RelativeToolTip": "CaixaDeBanco.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-22T17:39:37.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.Api\\Program.cs",
+              "RelativeDocumentMoniker": "CaixaDeBanco.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.Api\\Program.cs",
+              "RelativeToolTip": "CaixaDeBanco.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:45:12.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CaixaDeBanco.Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CaixaDeBanco.Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:56:20.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250322200519_InitialCreation.cs",
+              "DocumentMoniker": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.DbContext\\Migrations\\20250322200519_InitialCreation.cs",
+              "RelativeDocumentMoniker": "CaixaDeBanco.DbContext\\Migrations\\20250322200519_InitialCreation.cs",
+              "ToolTip": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.DbContext\\Migrations\\20250322200519_InitialCreation.cs",
+              "RelativeToolTip": "CaixaDeBanco.DbContext\\Migrations\\20250322200519_InitialCreation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T20:05:20.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BankingAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.DbContext\\Models\\BankingAccount.cs",
+              "RelativeDocumentMoniker": "CaixaDeBanco.DbContext\\Models\\BankingAccount.cs",
+              "ToolTip": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.DbContext\\Models\\BankingAccount.cs",
+              "RelativeToolTip": "CaixaDeBanco.DbContext\\Models\\BankingAccount.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA3wBMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:56:50.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TransactionHistory.cs",
+              "DocumentMoniker": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.DbContext\\Models\\TransactionHistory.cs",
+              "RelativeDocumentMoniker": "CaixaDeBanco.DbContext\\Models\\TransactionHistory.cs",
+              "ToolTip": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.DbContext\\Models\\TransactionHistory.cs",
+              "RelativeToolTip": "CaixaDeBanco.DbContext\\Models\\TransactionHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T18:33:00.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BancoDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.DbContext\\Migrations\\BancoDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CaixaDeBanco.DbContext\\Migrations\\BancoDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.DbContext\\Migrations\\BancoDbContextModelSnapshot.cs",
+              "RelativeToolTip": "CaixaDeBanco.DbContext\\Migrations\\BancoDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T20:07:33.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CaixaDeBanco.Database.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.DbContext\\CaixaDeBanco.Database.csproj",
+              "RelativeDocumentMoniker": "CaixaDeBanco.DbContext\\CaixaDeBanco.Database.csproj",
+              "ToolTip": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.DbContext\\CaixaDeBanco.Database.csproj",
+              "RelativeToolTip": "CaixaDeBanco.DbContext\\CaixaDeBanco.Database.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-22T19:46:33.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CaixaDeBanco.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.Api\\CaixaDeBanco.Api.csproj",
+              "RelativeDocumentMoniker": "CaixaDeBanco.Api\\CaixaDeBanco.Api.csproj",
+              "ToolTip": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.Api\\CaixaDeBanco.Api.csproj",
+              "RelativeToolTip": "CaixaDeBanco.Api\\CaixaDeBanco.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-22T19:51:05.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CaixaDeBanco.Enumerator.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.Enumerator\\CaixaDeBanco.Enumerator.csproj",
+              "RelativeDocumentMoniker": "CaixaDeBanco.Enumerator\\CaixaDeBanco.Enumerator.csproj",
+              "ToolTip": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.Enumerator\\CaixaDeBanco.Enumerator.csproj",
+              "RelativeToolTip": "CaixaDeBanco.Enumerator\\CaixaDeBanco.Enumerator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-22T19:46:46.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EAccountAction.cs",
+              "DocumentMoniker": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.Enumerator\\EAccountAction.cs",
+              "RelativeDocumentMoniker": "CaixaDeBanco.Enumerator\\EAccountAction.cs",
+              "ToolTip": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.Enumerator\\EAccountAction.cs",
+              "RelativeToolTip": "CaixaDeBanco.Enumerator\\EAccountAction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T19:30:07.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ETransactionType.cs",
+              "DocumentMoniker": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.Enumerator\\ETransactionType.cs",
+              "RelativeDocumentMoniker": "CaixaDeBanco.Enumerator\\ETransactionType.cs",
+              "ToolTip": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.Enumerator\\ETransactionType.cs",
+              "RelativeToolTip": "CaixaDeBanco.Enumerator\\ETransactionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T19:35:46.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BancoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.DbContext\\Data\\BancoDbContext.cs",
+              "RelativeDocumentMoniker": "CaixaDeBanco.DbContext\\Data\\BancoDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.DbContext\\Data\\BancoDbContext.cs",
+              "RelativeToolTip": "CaixaDeBanco.DbContext\\Data\\BancoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:48:23.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

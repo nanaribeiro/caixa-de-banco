@@ -1,0 +1,11 @@
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco\bin\Debug\net8.0\CaixaDeBanco.deps.json
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco\bin\Debug\net8.0\CaixaDeBanco.dll
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco\bin\Debug\net8.0\CaixaDeBanco.pdb
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco\obj\Debug\net8.0\CaixaDeBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco\obj\Debug\net8.0\CaixaDeBanco.AssemblyInfoInputs.cache
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco\obj\Debug\net8.0\CaixaDeBanco.AssemblyInfo.cs
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco\obj\Debug\net8.0\CaixaDeBanco.csproj.CoreCompileInputs.cache
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco\obj\Debug\net8.0\CaixaDeBanco.dll
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco\obj\Debug\net8.0\refint\CaixaDeBanco.dll
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco\obj\Debug\net8.0\CaixaDeBanco.pdb
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco\obj\Debug\net8.0\ref\CaixaDeBanco.dll

@@ -1,0 +1,11 @@
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Enumerator\obj\Debug\net8.0\CaixaDeBanco.Enumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Enumerator\obj\Debug\net8.0\CaixaDeBanco.Enumerator.AssemblyInfoInputs.cache
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Enumerator\obj\Debug\net8.0\CaixaDeBanco.Enumerator.AssemblyInfo.cs
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Enumerator\obj\Debug\net8.0\CaixaDeBanco.Enumerator.csproj.CoreCompileInputs.cache
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Enumerator\bin\Debug\net8.0\CaixaDeBanco.Enumerator.deps.json
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Enumerator\bin\Debug\net8.0\CaixaDeBanco.Enumerator.dll
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Enumerator\bin\Debug\net8.0\CaixaDeBanco.Enumerator.pdb
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Enumerator\obj\Debug\net8.0\CaixaDeBanco.Enumerator.dll
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Enumerator\obj\Debug\net8.0\refint\CaixaDeBanco.Enumerator.dll
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Enumerator\obj\Debug\net8.0\CaixaDeBanco.Enumerator.pdb
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Enumerator\obj\Debug\net8.0\ref\CaixaDeBanco.Enumerator.dll
