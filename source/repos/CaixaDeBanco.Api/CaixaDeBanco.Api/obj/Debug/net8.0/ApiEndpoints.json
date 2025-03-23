@@ -17,5 +17,29 @@
     "EndpointName": "Bank Account: Create",
     "Description": "Cria uma nova conta bancaria",
     "Summary": "Cria uma nova conta bancaria"
+  },
+  {
+    "ContainingType": "CaixaDeBanco.Api.Controllers.GetAccountController",
+    "Method": "GetAccount",
+    "RelativePath": "GetAccount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Document",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "Bank Account: Get",
+    "Description": "Recupera todas as contas se n\u00E3o for informado nome ou documento. Caso seja informado o nomeou documento ser\u00E1 filtrado pelo que for informado",
+    "Summary": "Recupera todas as contas se n\u00E3o for informado nome ou documento. Caso seja informado o nome ou documento ser\u00E1 filtrado pelo que for informado"
   }
 ]

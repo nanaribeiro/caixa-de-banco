@@ -38,6 +38,37 @@
           }
         }
       }
+    },
+    "/GetAccount": {
+      "get": {
+        "tags": [
+          "GetAccount"
+        ],
+        "summary": "Recupera todas as contas se não for informado nome ou documento. Caso seja informado o nome ou documento será filtrado pelo que for informado",
+        "description": "Recupera todas as contas se não for informado nome ou documento. Caso seja informado o nomeou documento será filtrado pelo que for informado",
+        "operationId": "Bank Account: Get",
+        "parameters": [
+          {
+            "name": "Name",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "Document",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": {

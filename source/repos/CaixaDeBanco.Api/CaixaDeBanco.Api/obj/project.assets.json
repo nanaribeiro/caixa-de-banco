@@ -5193,8 +5193,8 @@
     },
     "CaixaDeBanco.Database/1.0.0": {
       "type": "project",
-      "path": "../CaixaDeBanco.DbContext/CaixaDeBanco.Database.csproj",
-      "msbuildProject": "../CaixaDeBanco.DbContext/CaixaDeBanco.Database.csproj"
+      "path": "../CaixaDeBanco.Database/CaixaDeBanco.Database.csproj",
+      "msbuildProject": "../CaixaDeBanco.Database/CaixaDeBanco.Database.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5240,6 +5240,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.Database\\CaixaDeBanco.Database.csproj": {
+              "projectPath": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.Database\\CaixaDeBanco.Database.csproj"
+            },
             "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.DbContext\\CaixaDeBanco.Database.csproj": {
               "projectPath": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.DbContext\\CaixaDeBanco.Database.csproj"
             },

@@ -2832,11 +2832,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.DbContext\\CaixaDeBanco.Database.csproj",
+      "projectUniqueName": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.Database\\CaixaDeBanco.Database.csproj",
       "projectName": "CaixaDeBanco.Database",
-      "projectPath": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.DbContext\\CaixaDeBanco.Database.csproj",
+      "projectPath": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.Database\\CaixaDeBanco.Database.csproj",
       "packagesPath": "C:\\Users\\Usuari\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.DbContext\\obj\\",
+      "outputPath": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.Database\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -7,5 +7,6 @@ namespace CaixaDeBanco.Handlers
     public interface IBankAccountHandler
     {
         Task<Response<BankingAccount?>> CreateAccountAsync(CreateAccountRequest request);
+        Task<PagedResponse<List<GetAccountResponse>>> GetAccountAsync(GetAccountRequest request);
     }
 }
