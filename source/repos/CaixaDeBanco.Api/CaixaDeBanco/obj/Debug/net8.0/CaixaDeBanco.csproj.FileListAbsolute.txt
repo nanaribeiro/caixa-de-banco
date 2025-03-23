@@ -5,6 +5,7 @@ C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco\obj\Debug\net8.0\Caix
 C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco\obj\Debug\net8.0\CaixaDeBanco.AssemblyInfoInputs.cache
 C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco\obj\Debug\net8.0\CaixaDeBanco.AssemblyInfo.cs
 C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco\obj\Debug\net8.0\CaixaDeBanco.csproj.CoreCompileInputs.cache
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco\obj\Debug\net8.0\CaixaDeBanco.sourcelink.json
 C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco\obj\Debug\net8.0\CaixaDeBanco.dll
 C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco\obj\Debug\net8.0\refint\CaixaDeBanco.dll
 C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco\obj\Debug\net8.0\CaixaDeBanco.pdb

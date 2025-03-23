@@ -1,9 +1,3 @@
-C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\obj\Debug\net8.0\CaixaDeBanco.Api.csproj.AssemblyReference.cache
-C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\obj\Debug\net8.0\CaixaDeBanco.Api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\obj\Debug\net8.0\CaixaDeBanco.Api.AssemblyInfoInputs.cache
-C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\obj\Debug\net8.0\CaixaDeBanco.Api.AssemblyInfo.cs
-C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\obj\Debug\net8.0\CaixaDeBanco.Api.csproj.CoreCompileInputs.cache
-C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\obj\Debug\net8.0\CaixaDeBanco.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\bin\Debug\net8.0\appsettings.json
 C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\bin\Debug\net8.0\CaixaDeBanco.Api.staticwebassets.endpoints.json
@@ -153,9 +147,17 @@ C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\bin\Debug\net8.0\
 C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\bin\Debug\net8.0\CaixaDeBanco.Database.dll
-C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\bin\Debug\net8.0\CaixaDeBanco.Enumerator.dll
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\bin\Debug\net8.0\CaixaDeBanco.dll
 C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\bin\Debug\net8.0\CaixaDeBanco.Database.pdb
-C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\bin\Debug\net8.0\CaixaDeBanco.Enumerator.pdb
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\bin\Debug\net8.0\CaixaDeBanco.pdb
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\obj\Debug\net8.0\CaixaDeBanco.Api.csproj.AssemblyReference.cache
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\obj\Debug\net8.0\CaixaDeBanco.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\obj\Debug\net8.0\CaixaDeBanco.Api.AssemblyInfoInputs.cache
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\obj\Debug\net8.0\CaixaDeBanco.Api.AssemblyInfo.cs
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\obj\Debug\net8.0\CaixaDeBanco.Api.csproj.CoreCompileInputs.cache
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\obj\Debug\net8.0\CaixaDeBanco.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\obj\Debug\net8.0\CaixaDeBanco.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\obj\Debug\net8.0\CaixaDeBanco.Api.sourcelink.json
 C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\obj\Debug\net8.0\scopedcss\bundle\CaixaDeBanco.Api.styles.css
 C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\obj\Debug\net8.0\staticwebassets.development.json
@@ -173,4 +175,3 @@ C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\obj\Debug\net8.0\
 C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\obj\Debug\net8.0\CaixaDeBanco.Api.pdb
 C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\obj\Debug\net8.0\CaixaDeBanco.Api.genruntimeconfig.cache
 C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\obj\Debug\net8.0\ref\CaixaDeBanco.Api.dll
-C:\Users\Usuari\source\repos\CaixaDeBanco.Api\CaixaDeBanco.Api\obj\Debug\net8.0\CaixaDeBanco.Api.MvcApplicationPartsAssemblyInfo.cs

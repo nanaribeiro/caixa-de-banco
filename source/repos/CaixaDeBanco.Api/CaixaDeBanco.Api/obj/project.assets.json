@@ -1696,11 +1696,21 @@
           }
         }
       },
+      "CaixaDeBanco/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CaixaDeBanco.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CaixaDeBanco.dll": {}
+        }
+      },
       "CaixaDeBanco.Database/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "CaixaDeBanco.Enumerator": "1.0.0",
+          "CaixaDeBanco": "1.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.3",
           "Microsoft.EntityFrameworkCore.Relational": "9.0.3",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.3"
@@ -1710,16 +1720,6 @@
         },
         "runtime": {
           "bin/placeholder/CaixaDeBanco.Database.dll": {}
-        }
-      },
-      "CaixaDeBanco.Enumerator/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/CaixaDeBanco.Enumerator.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CaixaDeBanco.Enumerator.dll": {}
         }
       }
     }
@@ -5186,19 +5186,20 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "CaixaDeBanco/1.0.0": {
+      "type": "project",
+      "path": "../CaixaDeBanco/CaixaDeBanco.csproj",
+      "msbuildProject": "../CaixaDeBanco/CaixaDeBanco.csproj"
+    },
     "CaixaDeBanco.Database/1.0.0": {
       "type": "project",
       "path": "../CaixaDeBanco.DbContext/CaixaDeBanco.Database.csproj",
       "msbuildProject": "../CaixaDeBanco.DbContext/CaixaDeBanco.Database.csproj"
-    },
-    "CaixaDeBanco.Enumerator/1.0.0": {
-      "type": "project",
-      "path": "../CaixaDeBanco.Enumerator/CaixaDeBanco.Enumerator.csproj",
-      "msbuildProject": "../CaixaDeBanco.Enumerator/CaixaDeBanco.Enumerator.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "CaixaDeBanco >= 1.0.0",
       "CaixaDeBanco.Database >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.3",
@@ -5241,6 +5242,9 @@
           "projectReferences": {
             "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.DbContext\\CaixaDeBanco.Database.csproj": {
               "projectPath": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.DbContext\\CaixaDeBanco.Database.csproj"
+            },
+            "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco\\CaixaDeBanco.csproj": {
+              "projectPath": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco\\CaixaDeBanco.csproj"
             }
           }
         }

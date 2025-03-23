@@ -35,6 +35,9 @@
             "projectReferences": {
               "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.DbContext\\CaixaDeBanco.Database.csproj": {
                 "projectPath": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.DbContext\\CaixaDeBanco.Database.csproj"
+              },
+              "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco\\CaixaDeBanco.csproj": {
+                "projectPath": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco\\CaixaDeBanco.csproj"
               }
             }
           }
@@ -128,8 +131,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.Enumerator\\CaixaDeBanco.Enumerator.csproj": {
-                "projectPath": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.Enumerator\\CaixaDeBanco.Enumerator.csproj"
+              "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco\\CaixaDeBanco.csproj": {
+                "projectPath": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco\\CaixaDeBanco.csproj"
               }
             }
           }
@@ -183,14 +186,14 @@
         }
       }
     },
-    "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.Enumerator\\CaixaDeBanco.Enumerator.csproj": {
+    "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco\\CaixaDeBanco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.Enumerator\\CaixaDeBanco.Enumerator.csproj",
-        "projectName": "CaixaDeBanco.Enumerator",
-        "projectPath": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.Enumerator\\CaixaDeBanco.Enumerator.csproj",
+        "projectUniqueName": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco\\CaixaDeBanco.csproj",
+        "projectName": "CaixaDeBanco",
+        "projectPath": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco\\CaixaDeBanco.csproj",
         "packagesPath": "C:\\Users\\Usuari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco.Enumerator\\obj\\",
+        "outputPath": "C:\\Users\\Usuari\\source\\repos\\CaixaDeBanco.Api\\CaixaDeBanco\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

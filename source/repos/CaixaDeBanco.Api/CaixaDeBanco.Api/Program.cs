@@ -1,3 +1,4 @@
+using CaixaDeBanco.Api;
 using CaixaDeBanco.Database.Data;
 using Microsoft.EntityFrameworkCore;
 
@@ -14,7 +15,7 @@ var conString = builder.Configuration.GetConnectionString("CaixaDeBancoDatabase"
     " not found.");
 builder.Services.AddDbContext<BancoDbContext>(options =>
     options.UseSqlServer(conString, b => b.MigrationsAssembly("CaixaDeBanco.Database")));
-
+builder.Services.AddHandlerDependencyGroup();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

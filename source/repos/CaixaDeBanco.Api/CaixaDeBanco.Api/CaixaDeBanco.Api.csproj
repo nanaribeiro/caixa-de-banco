@@ -21,6 +21,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CaixaDeBanco.DbContext\CaixaDeBanco.Database.csproj" />
+    <ProjectReference Include="..\CaixaDeBanco\CaixaDeBanco.csproj" />
   </ItemGroup>
 
 </Project>

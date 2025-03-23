@@ -1,0 +1,21 @@
+[
+  {
+    "ContainingType": "CaixaDeBanco.Api.Controllers.CreateBankAccountController",
+    "Method": "CreateAccount",
+    "RelativePath": "CreateBankAccount",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CaixaDeBanco.Requests.CreateAccountRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "Bank Account: Create",
+    "Description": "Cria uma nova conta bancaria",
+    "Summary": "Cria uma nova conta bancaria"
+  }
+]
