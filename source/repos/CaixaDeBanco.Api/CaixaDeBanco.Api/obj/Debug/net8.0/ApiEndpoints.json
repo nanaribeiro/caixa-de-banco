@@ -60,5 +60,24 @@
     "EndpointName": "Bank Account: Get",
     "Description": "Recupera todas as contas se n\u00E3o for informado nome ou documento. Caso seja informado o nomeou documento ser\u00E1 filtrado pelo que for informado",
     "Summary": "Recupera todas as contas se n\u00E3o for informado nome ou documento. Caso seja informado o nome ou documento ser\u00E1 filtrado pelo que for informado"
+  },
+  {
+    "ContainingType": "CaixaDeBanco.Api.Controllers.TransferTransactionController",
+    "Method": "TransferAccountTransaction",
+    "RelativePath": "TransferTransaction",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CaixaDeBanco.Requests.TransferTransactionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "Transaction: Transfer",
+    "Description": "Faz transfer\u00EAncia entre contas banc\u00E1rias",
+    "Summary": "Faz transfer\u00EAncia entre contas banc\u00E1rias"
   }
 ]

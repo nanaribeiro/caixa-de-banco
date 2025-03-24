@@ -16,11 +16,12 @@ namespace CaixaDeBanco.Api.Controllers
                               "ou documento será filtrado pelo que for informado")]
         public async Task<IActionResult> GetAccount([FromQuery] string? Name, string? Document)
         {
-            return Ok(await bankAccountHandler.GetAccount(new GetAccountRequest()
+            var result = await bankAccountHandler.GetAccount(new GetAccountRequest()
             {
                 Document = Document,
                 Name = Name
-            }));
+            });
+            return result.IsSuccess ? Ok(result) : BadRequest(result);
         }
     }
 }

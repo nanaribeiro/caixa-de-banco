@@ -15,6 +15,7 @@ public class CreateBankAccountController(IBankAccountHandler bankAccountHandler)
     [EndpointDescription("Cria uma nova conta bancaria")]
     public async Task<IActionResult> CreateAccount(CreateAccountRequest request)
     {
-        return Ok(await bankAccountHandler.CreateAccountAsync(request));
+        var result = await bankAccountHandler.CreateAccountAsync(request);
+        return result.IsSuccess ? Created(string.Empty, result) : BadRequest(result);
     }
 }

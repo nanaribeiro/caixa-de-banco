@@ -14,7 +14,8 @@ namespace CaixaDeBanco.Api.Controllers
         [EndpointDescription("Inativa uma conta bancaria")]
         public async Task<IActionResult> DeactivateAccount([FromQuery] string document)
         {
-            return Ok(await bankAccountHandler.DeactivateAccountAsync(new DeactivateAccountRequest() { Document = document}));
+            var result = await bankAccountHandler.DeactivateAccountAsync(new DeactivateAccountRequest() { Document = document});
+            return result.IsSuccess ? Ok(result) : BadRequest(result);
         }
     }
 }

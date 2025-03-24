@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CaixaDeBanco.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a51b4b86455401a04121630cc0c855ba2b21cce8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4816f2498bd5d5c8650bcf6bf4502edf2f23ed0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CaixaDeBanco.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CaixaDeBanco.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

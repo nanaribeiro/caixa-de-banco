@@ -3,7 +3,6 @@ using CaixaDeBanco.Database.Models;
 using CaixaDeBanco.Handlers;
 using CaixaDeBanco.Requests;
 using CaixaDeBanco.Responses;
-using Microsoft.EntityFrameworkCore;
 
 namespace CaixaDeBanco.Api.Handlers
 {

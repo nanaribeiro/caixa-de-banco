@@ -93,6 +93,40 @@
           }
         }
       }
+    },
+    "/TransferTransaction": {
+      "post": {
+        "tags": [
+          "TransferTransaction"
+        ],
+        "summary": "Faz transferência entre contas bancárias",
+        "description": "Faz transferência entre contas bancárias",
+        "operationId": "Transaction: Transfer",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TransferTransactionRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TransferTransactionRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TransferTransactionRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": {
@@ -112,6 +146,29 @@
             "maxLength": 14,
             "minLength": 1,
             "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "TransferTransactionRequest": {
+        "required": [
+          "destinationAccountNumber",
+          "originAccountNumber",
+          "value"
+        ],
+        "type": "object",
+        "properties": {
+          "originAccountNumber": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "destinationAccountNumber": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "value": {
+            "type": "number",
+            "format": "double"
           }
         },
         "additionalProperties": false

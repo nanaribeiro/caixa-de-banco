@@ -14,7 +14,8 @@ namespace CaixaDeBanco.Api.Controllers
         [EndpointDescription("Faz transferência entre contas bancárias")]
         public async Task<IActionResult> TransferAccountTransaction(TransferTransactionRequest request)
         {
-            return Ok(await transactionHandler.TransferTransactionAsync(request));
+            var result = await transactionHandler.TransferTransactionAsync(request);
+            return result.IsSuccess ? Ok(result) : BadRequest(result);
         }
     }
 }
