@@ -1,25 +1,44 @@
-Como configurar e rodar o projeto localmente?
+# Caixa de Banco
 
-1 - Fazer o download do arquivo
+## Índice
+- [Visão Geral](#visao-geral)
+- [Configuração](#configuracao)
+- [Ferramentas Utilizadas](#ferramentas-utilizadas)
+- [Documentação da API](#documentacao-da-api)
+- [Licença](#licenca)
 
-2 - Abrir no Visual Studio ou Visual Code
+## Visão Geral
+Caixa de Banco é uma aplicação bancária que permite aos usuários gerenciar suas contas e transações. Este projeto é construído utilizando .NET 8 e C# 12, e utiliza SQL Server hospedado na AWS para armazenamento de dados.
 
-3 - Apertar F5
+## Configuração
 
-4 - Ir no browser de sua preferência, copiar e colcar a url: https://localhost:7009/swagger/index.html
+### Pré-requisitos
+- Visual Studio ou Visual Code
+- SDK do .NET 8
 
-Obs: Como o banco de dados está na nuvem, não é necessário configurações adicionais. No máximo só restaurar os pacotes nuget
+### Passos para Rodar Localmente
+1. **Clonar o repositório**
+    ```bash
+    git clone https://github.com/nanaribeiro/caixa-de-banco.git
+    ```
+2. **Abrir o projeto**
+    - Abra o projeto no Visual Studio ou Visual Code.
+3. **Rodar o projeto**
+    - Pressione `F5` para compilar e rodar o projeto.
+4. **Acessar a Documentação da API**
+    - Abra o navegador de sua preferência e navegue para: [https://localhost:7009/swagger/index.html](https://localhost:7009/swagger/index.html)
 
-Ferramentas utilizadas:
+*Nota: O banco de dados está hospedado na nuvem, então não são necessárias configurações adicionais. Você pode precisar restaurar os pacotes NuGet.*
 
-.NET 8
+## Ferramentas Utilizadas
+- **.NET 8**
+- **C# 12**
+- **SQL Server (AWS)**
+- **EF Core 9**
+- **xUnit**
 
-C# 12
+## Documentação da API
+A documentação da API pode ser encontrada [aqui](https://github.com/nanaribeiro/caixa-de-banco/wiki/Documenta%C3%A7%C3%A3o-da-API).
 
-SQL Server (AWS)
-
-EF Core 9
-
-xUnit
-
-Documentação da API: https://github.com/nanaribeiro/caixa-de-banco/wiki/Documenta%C3%A7%C3%A3o-da-API
+## Licença
+Este projeto é licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
