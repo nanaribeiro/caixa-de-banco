@@ -9,7 +9,7 @@ namespace CaixaDeBanco.Database.Models
     {
         public Guid Id { get; set; }
         public EAccountAction Action { get; set; }
-        public required BankingAccount AccountId { get; set; }
+        public required BankingAccount Account { get; set; }
 
         [MaxLength(14)]
         public required string Document { get; set; }

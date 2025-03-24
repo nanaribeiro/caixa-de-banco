@@ -7,7 +7,7 @@ namespace CaixaDeBanco.Database.Models
     public class TransactionHistory
     {
         public Guid Id { get; set; }
-        public required BankingAccount AccountId { get; set; }
+        public required BankingAccount Account { get; set; }
         public required ETransactionType TransactionType { get; set; }
         public DateTime CreatedAt { get; set; }
 

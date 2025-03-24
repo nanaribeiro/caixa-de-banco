@@ -28,7 +28,7 @@ namespace CaixaDeBanco.Database.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier");
 
-                    b.Property<Guid>("AccountIdId")
+                    b.Property<Guid>("AccountId")
                         .HasColumnType("uniqueidentifier");
 
                     b.Property<int>("Action")
@@ -50,7 +50,7 @@ namespace CaixaDeBanco.Database.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("AccountIdId");
+                    b.HasIndex("AccountId");
 
                     b.ToTable("AccountHistory");
                 });
@@ -61,7 +61,7 @@ namespace CaixaDeBanco.Database.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier");
 
-                    b.Property<Guid>("AccountIdId")
+                    b.Property<Guid>("AccountId")
                         .HasColumnType("uniqueidentifier");
 
                     b.Property<DateTime>("CreatedAt")
@@ -77,7 +77,7 @@ namespace CaixaDeBanco.Database.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("AccountIdId");
+                    b.HasIndex("AccountId");
 
                     b.ToTable("TransactionHistory");
                 });
@@ -122,24 +122,24 @@ namespace CaixaDeBanco.Database.Migrations
 
             modelBuilder.Entity("CaixaDeBanco.Database.Models.AccountHistory", b =>
                 {
-                    b.HasOne("CaixaDeBanco.Models.BankingAccount", "AccountId")
+                    b.HasOne("CaixaDeBanco.Models.BankingAccount", "Account")
                         .WithMany("AccountHistories")
-                        .HasForeignKey("AccountIdId")
+                        .HasForeignKey("AccountId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("AccountId");
+                    b.Navigation("Account");
                 });
 
             modelBuilder.Entity("CaixaDeBanco.Database.Models.TransactionHistory", b =>
                 {
-                    b.HasOne("CaixaDeBanco.Models.BankingAccount", "AccountId")
+                    b.HasOne("CaixaDeBanco.Models.BankingAccount", "Account")
                         .WithMany("TransactionHistories")
-                        .HasForeignKey("AccountIdId")
+                        .HasForeignKey("AccountId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("AccountId");
+                    b.Navigation("Account");
                 });
 
             modelBuilder.Entity("CaixaDeBanco.Models.BankingAccount", b =>

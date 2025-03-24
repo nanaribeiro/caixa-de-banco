@@ -39,6 +39,30 @@
         }
       }
     },
+    "/DeactivateBankAccount": {
+      "patch": {
+        "tags": [
+          "DeactivateBankAccount"
+        ],
+        "summary": "Inativa uma conta bancaria",
+        "description": "Inativa uma conta bancaria",
+        "operationId": "Bank Account: Deactivate",
+        "parameters": [
+          {
+            "name": "document",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/GetAccount": {
       "get": {
         "tags": [

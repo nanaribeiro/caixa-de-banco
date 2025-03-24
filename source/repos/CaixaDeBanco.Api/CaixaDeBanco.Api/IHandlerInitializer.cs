@@ -9,6 +9,7 @@ namespace CaixaDeBanco.Api
              this IServiceCollection services)
         {
             services.AddScoped<IBankAccountHandler, BankAccountHandler>();
+            services.AddScoped<ITransactionHandler, TransactionHandler>();
 
             return services;
         }

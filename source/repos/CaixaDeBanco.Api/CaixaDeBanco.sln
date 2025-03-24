@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaixaDeBanco", "CaixaDeBanc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaixaDeBanco.Database", "CaixaDeBanco.Database\CaixaDeBanco.Database.csproj", "{724DA5BB-9019-346B-59C5-DBB1A04BF7C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaixaDeBanco.UnitTest", "CaixaDeBanco.UnitTest\CaixaDeBanco.UnitTest.csproj", "{D41B6FD8-8E61-45E6-9D39-A481CAB503DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{724DA5BB-9019-346B-59C5-DBB1A04BF7C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{724DA5BB-9019-346B-59C5-DBB1A04BF7C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{724DA5BB-9019-346B-59C5-DBB1A04BF7C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D41B6FD8-8E61-45E6-9D39-A481CAB503DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D41B6FD8-8E61-45E6-9D39-A481CAB503DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D41B6FD8-8E61-45E6-9D39-A481CAB503DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D41B6FD8-8E61-45E6-9D39-A481CAB503DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,6 +52,7 @@ Global
 		{C88C4832-2C18-4D6E-9E36-A5F24627B07F} = {6EA7A6AC-4095-41D4-B5A9-9EE5D04707FB}
 		{8B3B2C14-1B1A-4D03-90FC-226DD5C1CB62} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{724DA5BB-9019-346B-59C5-DBB1A04BF7C2} = {C88C4832-2C18-4D6E-9E36-A5F24627B07F}
+		{D41B6FD8-8E61-45E6-9D39-A481CAB503DB} = {4C7BCF46-C1B4-4F7B-8F83-03DD2B7684C9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B8781FCE-FF30-4027-BE02-D58D2F72B9B7}

@@ -1,4 +1,5 @@
 ﻿using CaixaDeBanco.Database.Data;
+using CaixaDeBanco.Database.Models;
 using CaixaDeBanco.Handlers;
 using CaixaDeBanco.Models;
 using CaixaDeBanco.Requests;
@@ -36,9 +37,9 @@ namespace CaixaDeBanco.Api.Handlers
             {
                 return new Response<BankingAccount?>(null, 500, "Não foi possível criar a conta");
             }
-        }
+        }       
 
-        public async Task<PagedResponse<List<GetAccountResponse>>> GetAccountAsync(GetAccountRequest request)
+        public Task<PagedResponse<List<GetAccountResponse>>> GetAccount(GetAccountRequest request)
         {
             try
             {
@@ -57,23 +58,58 @@ namespace CaixaDeBanco.Api.Handlers
                     Status = x.Status
                 });
 
-                var accounts = await query
-                    .Skip((request.PageNumber - 1) * request.PageSize)
-                    .Take(request.PageSize)
-                    .ToListAsync();
+                var accounts =  query
+                                .Skip((request.PageNumber - 1) * request.PageSize)
+                                .Take(request.PageSize)
+                                .ToList();
 
-                var count = await query.CountAsync();
+                var count = query.Count();
 
-                return new PagedResponse<List<GetAccountResponse>>(
+                return Task.FromResult(new PagedResponse<List<GetAccountResponse>>(
                     accounts,
                     count,
                     request.PageNumber,
-                    request.PageSize);
+                    request.PageSize));
             }
             catch 
             {
-                return new PagedResponse<List<GetAccountResponse>>(null, 500, "Não foi possível consultar as contas");
+                return Task.FromResult(new PagedResponse<List<GetAccountResponse>>
+                    (null, 500, "Não foi possível consultar as contas"));
+            }
+        }
+        public async Task<Response<string>> DeactivateAccountAsync(DeactivateAccountRequest request)
+        {
+            try
+            {
+                var account = context.Account.Where(context => context.Document == request.Document).Single();
+                if (account.Status)
+                {                   
+                    account.Status = false;
+                    context.Account.Update(account);
+                    await context.SaveChangesAsync();
+
+                    var history = new AccountHistory()
+                    {
+                        Account = account,
+                        Document = account.Document,
+                        User = Environment.UserName,
+                        Action = Enumerator.EAccountAction.Inactivation,
+                    };
+                    await context.AccountHistory.AddAsync(history);
+                    await context.SaveChangesAsync();
+
+                    return new Response<string>(null, 200, "Conta inativada com sucesso!");
+                }
+                else
+                {
+                    return new Response<string>(null, 400, "Conta já está desativada!");
+                }
+            }
+            catch
+            {
+                return new Response<string>(null, 500, "Não foi possível desativar a conta");                
             }
         }
     }
 }
+

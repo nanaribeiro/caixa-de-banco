@@ -16,7 +16,7 @@ namespace CaixaDeBanco.Api.Controllers
                               "ou documento será filtrado pelo que for informado")]
         public async Task<IActionResult> GetAccount([FromQuery] string? Name, string? Document)
         {
-            return Ok(await bankAccountHandler.GetAccountAsync(new GetAccountRequest()
+            return Ok(await bankAccountHandler.GetAccount(new GetAccountRequest()
             {
                 Document = Document,
                 Name = Name

@@ -19,6 +19,25 @@
     "Summary": "Cria uma nova conta bancaria"
   },
   {
+    "ContainingType": "CaixaDeBanco.Api.Controllers.DeactivateBankAccountController",
+    "Method": "DeactivateAccount",
+    "RelativePath": "DeactivateBankAccount",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "document",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "Bank Account: Deactivate",
+    "Description": "Inativa uma conta bancaria",
+    "Summary": "Inativa uma conta bancaria"
+  },
+  {
     "ContainingType": "CaixaDeBanco.Api.Controllers.GetAccountController",
     "Method": "GetAccount",
     "RelativePath": "GetAccount",
