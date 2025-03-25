@@ -21,6 +21,8 @@ Caixa de Banco é uma aplicação bancária que permite aos usuários gerenciar 
     ```bash
     git clone https://github.com/nanaribeiro/caixa-de-banco.git
     ```
+2. **Copiar pasta enviada por e-mail**
+    - Extraia a pasta zipada enviada por email para o caminho C:\Users\SEUUSUARIO\AppData\Roaming\Microsoft. Substituindo SEUUSUARIO pelo usuario logado na maquina
 2. **Abrir o projeto**
     - Abra o projeto no Visual Studio ou Visual Code.
 3. **Rodar o projeto**
