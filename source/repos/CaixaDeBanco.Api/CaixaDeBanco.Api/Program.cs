@@ -10,7 +10,7 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-var conString = builder.Configuration.GetConnectionString("CaixaDeBancoDatabase") ??
+var conString = builder.Configuration["CaixaDeBancoDatabase"] ??
      throw new InvalidOperationException("Connection string 'CaixaDeBancoDatabase'" +
     " not found.");
 builder.Services.AddDbContext<BancoDbContext>(options =>

@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("ef79e5cd-28a5-42f4-b544-09a0793fd087")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("CaixaDeBanco.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4816f2498bd5d5c8650bcf6bf4502edf2f23ed0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdbb7583f7a679560bedf764c44364467efde4cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("CaixaDeBanco.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CaixaDeBanco.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
